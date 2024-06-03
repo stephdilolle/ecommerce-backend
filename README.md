@@ -35,6 +35,7 @@ TAGS: update, delete, create, get, get by id
 CATEGORIES: delete, create, get, get by id
 PRODUCTS: delete, create, get, get by id
 - Each route is found at localhost:3001/api/(name)
+- Video walkthrough: https://www.loom.com/share/861a812e4e9445e28d36c2456c9f7e81?sid=76d33547-c84d-4125-a365-435882368d62
 
 ## License
 
